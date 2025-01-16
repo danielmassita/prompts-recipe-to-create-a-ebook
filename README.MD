@@ -103,16 +103,22 @@ Conclusão
 A educação financeira é um passo essencial para conquistar liberdade e segurança financeira. Ao aplicar conceitos como orçamento, reserva de emergência, gestão de dívidas, investimentos e consumo consciente, você se torna capaz de tomar decisões mais informadas e construir um futuro financeiro mais tranquilo. Comece hoje e veja a diferença que isso pode fazer em sua vida!
 ```
 
-Midjourney：
+## Ajustes e Edições aplicadas por um Humano! 
+
+OpenArt：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Elf ranger in a mystical forest, radiant sunlight filtering through lush green treetops, shimmering magical aura surrounding the treasure, ethereal glow reflecting the ranger's wisdom, majestic trees wrapped in vines, a sense of serenity and tranquility, vivid colors, high-detail, ultra-detailed, enchanting atmosphere filled with intrigue and adventure. |
+
+Output:
+```markdown
+```
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via OpenArt.AI
 
 ## 📚 Materiais
 
@@ -121,7 +127,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
@@ -130,22 +136,29 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/111195175?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDaniel Massita Tonolli<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a 
+        href="https://github.com/danielmassita">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/daniel-massita-tonolli/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/dmt_ocean_ambassador/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Daniel Massita Tonolli](https://github.com/danielmassita) - aluno do Felipe Aguiar! ;) 
