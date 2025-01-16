@@ -112,9 +112,20 @@ OpenArt：
 | título | Elf ranger in a mystical forest, radiant sunlight filtering through lush green treetops, shimmering magical aura surrounding the treasure, ethereal glow reflecting the ranger's wisdom, majestic trees wrapped in vines, a sense of serenity and tranquility, vivid colors, high-detail, ultra-detailed, enchanting atmosphere filled with intrigue and adventure. |
 
 Output:
-```markdown
-```
+<p align="center">
+<img 
+    src="./assets/examples.png"
+    width="600"  
+/>
+</p>
 
+Escolhido
+<p align="center">
+<img 
+    src="./assets/reinado.png"
+    width="600"  
+/>
+</p>
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
