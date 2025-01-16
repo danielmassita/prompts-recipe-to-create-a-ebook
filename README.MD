@@ -12,8 +12,8 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+    src="./assets/reinado.jpg"
+    width="600"  
 />
 </p>
 
