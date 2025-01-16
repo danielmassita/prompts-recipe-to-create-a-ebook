@@ -109,7 +109,7 @@ OpenArt：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Elf ranger in a mystical forest, radiant sunlight filtering through lush green treetops, shimmering magical aura surrounding the treasure, ethereal glow reflecting the ranger's wisdom, majestic trees wrapped in vines, a sense of serenity and tranquility, vivid colors, high-detail, ultra-detailed, enchanting atmosphere filled with intrigue and adventure. |
+| título | RPG Medieval Party, a vibrant scene inspired by Lord of the Rings, set in a mystical kingdom, bustling with wealthy traders and merchants, majestic castles soaring in the background, treasures glinting among citizens, lively ambiance of progression and prosperity, lush greenery and golden sunlight, full of intricate details, high fantasy essence, ultra-detailed color tones, captivating and rich tableau. |
 
 Output:
 <p align="center">
@@ -122,8 +122,8 @@ Output:
 Escolhido
 <p align="center">
 <img 
-    src="./assets/reinado.png"
-    width="600"  
+    src="./assets/reinado.jpg"
+    width="900"  
 />
 </p>
 ## ✨ Features
